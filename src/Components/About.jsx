@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/ireland1.jpg";
+import image from "../../__images__/ireland1.jpg";
 
 const imageAltText = "background consisting of shots captured in Ireland";
 

@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/ireland2.jpg";
+import image from "../../__images__/ireland2.jpg";
 
 const imageAltText = "Irish streets!";
 
